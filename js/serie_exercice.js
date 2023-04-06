@@ -228,8 +228,8 @@ alert(tab[0]);
 //Navigation
 
 function ouvrir() {
-    document.getElementById("mySidenav").style.width = "60%";
-    document.getElementById("main").style.marginLeft = "60%";
+    document.getElementById("mySidenav").style.width = "70%";
+    document.getElementById("main").style.marginLeft = "70%";
     document.body.style.backgroundColor = "rgba(0,0,0,0.4)";
   }
   
@@ -238,3 +238,4 @@ function ouvrir() {
     document.getElementById("main").style.marginLeft= "0";
     document.body.style.backgroundColor = "white";
   }
+  
